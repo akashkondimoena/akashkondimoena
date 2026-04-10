@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Akash Kondimoena"/>
+<img src="profile.jpeg" width="150" style="border-radius: 50%;" alt="Akash Kondimoena"/>
 
 # Akash Kondimoena
 
