@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpeg" width="150" style="border-radius: 50%;" alt="Akash Kondimoena"/>
+<img src="image.jpeg" width="150" style="border-radius: 50%;" alt="Akash Kondimoena"/>
 
 # Akash Kondimoena
 
