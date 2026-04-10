@@ -122,23 +122,6 @@ ServiceNow **Certified System Administrator (CSA)** and **Certified Application 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashkondimoena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkondimoena&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkondimoena&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
 
 ## Experience Timeline
 
